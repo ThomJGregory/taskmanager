@@ -42,7 +42,6 @@ function App() {
 	const addTask = task => {
 		console.log(task)
 		const id = Math.floor(Math.random() * 10000) + 1
-		console.log(id)
 		const newTask = { id, ...task }
 		setTasks([...tasks, newTask])
 	}
@@ -61,7 +60,7 @@ function App() {
 		)
 	}
 
-	// Interesting terniary operator in line 68
+	// Interesting terniary operator in line 70
 	return (
 		<div className="container">
 			<Header
