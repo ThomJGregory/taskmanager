@@ -11,6 +11,12 @@
       "text": "Practice Hooks",
       "day": "Thursday",
       "reminder": true
+    },
+    {
+      "text": "Finish this project",
+      "day": "Today",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
