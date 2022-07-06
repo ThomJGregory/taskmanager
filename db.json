@@ -1,8 +1,8 @@
 {
   "tasks": [
     {
-      "text": "Testicles",
-      "day": "test test test",
+      "text": "Task One",
+      "day": "Today",
       "reminder": false,
       "id": 2
     }
