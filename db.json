@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "text": "liquid ",
-      "day": "ads;f",
-      "reminder": true,
-      "id": 1
-    },
-    {
       "text": "Testicles",
       "day": "test test test",
       "reminder": false,
