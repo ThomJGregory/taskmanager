@@ -1,17 +1,10 @@
 {
   "tasks": [
     {
-<<<<<<< HEAD
       "text": "Study",
       "day": "Every day",
       "reminder": true,
       "id": 1
-=======
-      "text": "Task One",
-      "day": "Today",
-      "reminder": false,
-      "id": 2
->>>>>>> 4e43f9f3385b49f65419ab08631cf24dd396b1ad
     }
   ]
 }
