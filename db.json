@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "id": 3,
-      "text": "Practice ContextAPI",
-      "day": "Wednesday",
-      "reminder": true
-    },
-    {
-      "id": 4,
-      "text": "Practice Hooks",
-      "day": "Thursday",
-      "reminder": true
+      "text": "Study",
+      "day": "Every day",
+      "reminder": true,
+      "id": 1
     }
   ]
 }
